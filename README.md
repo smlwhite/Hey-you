@@ -2,6 +2,23 @@
 https://getbootstrap.com/docs/4.4/components/carousel/ 為幻燈片學處習處
 https://getbootstrap.com/docs/4.4/components/navbar/ 為導覽欄學處習處
 https://getbootstrap.com/docs/4.4/layout/grid/ 為文字編輯模板以及封面編輯學習處
+<!DOCTYPE html>
+<html lang="">
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <div class="d-flex justify-content-center">
+        <title></title>
+    </div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
 <nav class="nav navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -12,16 +29,15 @@ https://getbootstrap.com/docs/4.4/layout/grid/ 為文字編輯模板以及封面
             </div>            
             <div class="navbar-header">
                 <a class="navbar-brand" href="露營.html">露營</a>
-            </div>            
-            <div class="navbar-header">
-                <a class="navbar-brand" href="野炊.html">野炊</a>
-            </div>
-            <div class="navbar-header">
-                <a class="navbar-brand" href="相關影片.html">相關影片</a>
-            </div>            
-        </div>
-    </  導航> 
-運用bootstrap上的導覽欄相關教學，並加入超連結HREF連結至其他分頁
+           </div>            
+          <div class="navbar-header">
+              <a class="navbar-brand" href="野炊.html">野炊</a>
+           </div>
+         <div class="navbar-header">
+               <a class="navbar-brand" href="相關影片.html">相關影片</a>
+           </div>            
+      </div>
+    </nav> 
     <div class="container">
                <h2></h2>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -71,5 +87,11 @@ https://getbootstrap.com/docs/4.4/layout/grid/ 為文字編輯模板以及封面
                 <span class="sr-only">Next</span>
             </a>
         </div>
-            </div>
-   
+    </div>
+  <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+    <div class="container text-center">
+      <small>Design By Myself</small>
+    </div>
+  </footer>
+</body>
+</html>
