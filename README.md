@@ -1,10 +1,7 @@
-我利用bootstape的模板
-https://getbootstrap.com/docs/4.4/components/carousel/<br>
-上為幻燈片學處習處
-https://getbootstrap.com/docs/4.4/components/navbar/<br>
-上為導覽欄學習處
-https://getbootstrap.com/docs/4.4/layout/grid/<br>
-上為下方文字編輯模板以及封面編輯學習處
+我利用bootstape的模板<br>
+https://getbootstrap.com/docs/4.4/components/carousel/ 為幻燈片學處習處
+https://getbootstrap.com/docs/4.4/components/navbar/ 為導覽欄學處習處
+https://getbootstrap.com/docs/4.4/layout/grid/ 為文字編輯模板以及封面編輯學習處
 <nav class="nav navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
