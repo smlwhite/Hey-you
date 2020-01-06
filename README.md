@@ -1,9 +1,9 @@
 我利用bootstape的模板
-https://getbootstrap.com/docs/4.4/components/carousel/
+https://getbootstrap.com/docs/4.4/components/carousel/<br>
 上為幻燈片學處習處
-https://getbootstrap.com/docs/4.4/components/navbar/
+https://getbootstrap.com/docs/4.4/components/navbar/<br>
 上為導覽欄學習處
-https://getbootstrap.com/docs/4.4/layout/grid/
+https://getbootstrap.com/docs/4.4/layout/grid/<br>
 上為下方文字編輯模板以及封面編輯學習處
 <nav class="nav navbar-inverse">
         <div class="container-fluid">
